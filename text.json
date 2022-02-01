@@ -1,0 +1,26 @@
+{
+    "models": 
+[
+    {
+        "name"  : "Classic Burger",
+        "image" : "img/1.png",
+        "price" : "50 TL",
+        "bg"    : "img/bg1.png"
+    },
+    {
+        "name" : "BBQ Burger",
+        "image" : "img/2.png",
+        "price" : "70 TL",
+        "bg"    : "img/bg2.png"
+
+    },
+    {
+        "name" : "The Boss Burger",
+        "image" : "img/3.png",
+        "price" : "80 TL",
+        "bg"    : "img/bg3.png"
+
+    }
+    
+]
+}

@@ -1,0 +1,47 @@
+https://gist.github.com/omma-bot/29d29448a8350523602b1c31226804d5
+
+Menuboard Challange
+Introduction
+You will need to develop a menuboard content that will be shown on Signage displays. Below, you may find 2 nice examples on what a "Menuboard" is:
+
+https://www.youtube.com/watch?v=QDhnsSddSas
+https://www.youtube.com/watch?v=onemiDNWHF4
+Design & Resources
+You may design freely. You may use any media you are able to find on internet. You may design each page by yourself, or you can pixel-perfect replicate an example you have found on internet, or you may alter the things you have found to put something on it from your heart.
+
+Here are 2 examplary links for you to check:
+
+http://www.freepik.com/free-photos-vectors/menu-board
+http://www.freepik.com/free-photos-vectors/menu
+Requirements
+Content must be comprised of at least 3 structurally different pages.
+These pages will be shown sequentially and will loop over.
+Pages must inhibit enter and exit animations in order to increase dynamism, similar to the examplary youtube videos above. Which animations and what to animate are up to your imagination.
+You must have a JSON file in the repository that holds the data of the pages. The json must hold an array of pages to be looped over. For each page entry (array item), the page structure and the price&name info (and other data) of the items in the page should be present. If we add more items to the JSON file, the number of pages to be looped should increase. If we remove items from the array, the number of pages to be looped should decrease. You may assume there is always at least 1 item in the array.
+For example, you should be able to support following menuboard:
+Strucure A - Item 1
+Structure B - Item 2, Item 3, Item 4
+Structure A - Item 5
+Structure B - Item 6,Item 7, Item 8,
+Structure C - Item 9
+loop from start
+Keep notes of which links you have used. We'd like you to submit those resources along with your project
+The project must be submitted via a private repository on GitHub with the OMMA bot user https://github.com/omma-bot . Your commit history will be checked. Please avoid large commits and create proper commit messages. (We appreciate micro-commits)
+Technical Details
+The app will run always on a Full HD display (1920x1080). There should not be any scrollbars.
+The app should not expect human interaction at all. Remember, it will run on a touchless signage display.
+You must use all of the HTML5, CSS3 ve JavaScript (ES5 veya ES6) technologies. CSS/HTML only solutions will not be accepted.
+The app must be packed with "Webpack"
+The app must be a "Single Page Application"
+You are NOT allowed to use any sort of UI framework. Please use pure/vanilla JS, CSS and HTML5 🙂
+The app will be tested on the most recent version of Google Chrome.
+
+
+
+
+
+https://www.freepik.com/free-psd/delicious-burger-food-menu-social-media-post-template_12577583.htm#&position=13&from_view=detail#&position=13&from_view=detail#position=13
+
+https://www.freepik.com/free-psd/delicious-burger-food-menu-social-media-banner-template_15951129.htm?query=menu
+
+https://www.freepik.com/free-psd/delicious-burger-food-menu-social-media-banner-template_15836959.htm#&position=14&from_view=detail#query=menu&position=14&from_view=detail
